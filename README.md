@@ -18,7 +18,7 @@ doi:10.1155/2011/353509
 Later enhanced to cover four different similarities and applied with overall ranking to evaluate R&D projects as investements in:
 
 [3.] M. Collan, P. Luukka, Evaluating R&D projects as investments by using an overall ranking from four new fuzzy similarity 
-measure based TOPSIS variants, IEEE Transactions on Fuzzy Systems, 26,6, (2013), pp. 1-11. 
+measure based TOPSIS variants, IEEE Transactions on Fuzzy Systems, 26,6, (2014), pp. 1-11. 
 doi:http://dx.doi.org/10.1109/TFUZZ.2013.2260758
 
 Similarity based classifier with ordered weighted averaging operators:
