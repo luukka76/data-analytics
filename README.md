@@ -1,7 +1,10 @@
 # data-analytics
 Matlab files for data analytics methods
 
-Here you can find matlab files from paper
+Here you can find matlab files from some of my papers
+
+Feature selection:
+
 [1.] P. Luukka, (2011) Feature Selection Using Fuzzy Entropy Measures with
  Similarity Classifier, Expert Systems with Applications, 38, pp.
  4600-4607
@@ -23,3 +26,6 @@ Similarity based classifier with ordered weighted averaging operators:
 [4.] P. Luukka, O. Kurama, Similarity classifier with ordered weighted averaging operators,
 Expert Systems With Applications, 40, (2013), pp. 995-1002
 
+Consistency and coverage computations and degree of proof and disproof:
+
+[5.] Stoklasa, J., Luukka, P., & Talášek, T. (2017). Set-theoretic methodology using fuzzy sets in rule extraction and validation - consistency and coverage revisited. Information Sciences, 412-413, 154–173.
