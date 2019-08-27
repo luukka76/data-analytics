@@ -29,3 +29,9 @@ Expert Systems With Applications, 40, (2013), pp. 995-1002
 Consistency and coverage computations and degree of proof and disproof:
 
 [5.] Stoklasa, J., Luukka, P., & Talášek, T. (2017). Set-theoretic methodology using fuzzy sets in rule extraction and validation - consistency and coverage revisited. Information Sciences, 412-413, 154–173.
+
+Multi-expert multicriteria decision making method for ranking patents:
+
+[6.]  M. Collan, M. Fedrizzi, P. Luukka, A multi-expert system for ranking patents: An approach based on 
+fuzzy pay-off distributions and a TOPSIS-AHP framework, Expert Systems with Applications, 40 (2013), 
+pp. 4749-4759.
